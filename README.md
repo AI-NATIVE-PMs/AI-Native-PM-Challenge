@@ -188,26 +188,25 @@ We ship fast, and we ship with care:
 ai-native-pm-challenge/
 ├── README.md                          # This file
 ├── CONTRIBUTION_GUIDELINES.md         # How to contribute
+├── CODE_OF_CONDUCT.md                 # How we treat each other
+├── LICENSE                            # Usage terms for this repo
 ├── CURRICULUM.md                      # Full curriculum details
-├── participants/
+├── participants/                      # One folder per participant
 │   ├── participant-1/
 │   │   ├── README.md
-│   │   ├── week-1/
+│   │   ├── week-1/                    # Individual weekly entries
 │   │   │   ├── README.md
 │   │   │   ├── system-prompt.md
 │   │   │   └── live-url.txt
 │   │   ├── week-2/
 │   │   └── ...
 │   └── ...
-├── resources/
-│   ├── video-links.md
-│   ├── tool-guides/
-│   ├── templates/
-│   └── case-studies/
+├── resources/                        # Shared guides, links, and starter kits
+└── showcase/                         # Featured builds and competition winners
+    └── README.md
 └── community/
     ├── sunday-reviews.md
-    ├── monthly-competitions.md
-    └── mentors.md
+
 ```
 ---
 
