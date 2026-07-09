@@ -5,7 +5,7 @@
 - **Background**: [N/A]
 - **Goals**: Become an AI-Native PM who can build and ship real, production-grade AI products.
 - **Email**: [victoranderson606@gmail.com]
-- **LinkedIn**: [[Your profile](https://www.linkedin.com/in/victor-anderson257/)]
+- **LinkedIn**: [https://www.linkedin.com/in/victor-anderson257]
 - **GitHub**: [github.com/techninja257](https://github.com/techninja257)
 
 ## Challenge Progress
