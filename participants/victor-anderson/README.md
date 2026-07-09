@@ -1,11 +1,11 @@
 # Victor Anderson
 
 ## About Me
-- **Location**: [City, Country]
-- **Background**: [Your PM/tech background]
+- **Location**: [uyo, Akwa Ibom stste]
+- **Background**: [N/A]
 - **Goals**: Become an AI-Native PM who can build and ship real, production-grade AI products.
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your profile]
+- **Email**: [victoranderson606@gmail.com]
+- **LinkedIn**: [[Your profile](https://www.linkedin.com/in/victor-anderson257/)]
 - **GitHub**: [github.com/techninja257](https://github.com/techninja257)
 
 ## Challenge Progress
